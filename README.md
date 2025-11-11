@@ -8,6 +8,4 @@
 **🛠️ Infra and Tools**
 ![Discord](https://img.shields.io/badge/discord-5865F2.svg?&style=for-the-badge&logo=discord&logoColor=white) ![GitHub](https://img.shields.io/badge/github-181717.svg?&style=for-the-badge&logo=github&logoColor=white) ![Zoom](https://img.shields.io/badge/zoom-0B5CFF.svg?&style=for-the-badge&logo=zoom&logoColor=white) ![Figma](https://img.shields.io/badge/figma-F24E1E.svg?&style=for-the-badge&logo=figma&logoColor=white) ![Sourcetree](https://img.shields.io/badge/sourcetree-0052CC.svg?&style=for-the-badge&logo=sourcetree&logoColor=white)
 
-### 🚌 Top Langs
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seyunkims&layout=compact)
+[![Hits](https://hits.sh/github.com/Anyarzy.svg?color=40ccc9&labelColor=f58686)](https://hits.sh/github.com/Anyarzy/)
