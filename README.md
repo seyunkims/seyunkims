@@ -1,11 +1,30 @@
-![header](https://capsule-render.vercel.app/api?type=blur&height=500&color=gradient&text=SEYUN%20KIM&section=header&fontAlign=50&fontSize=50&textBg=false&animation=blinking&descAlign=60)
-
-### 🦾 Skills
-
-**🧑‍💻 Lang and Frameworks**
-![HTML5](https://img.shields.io/badge/html5-E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-1572B6.svg?&style=for-the-badge&logo=css3&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-7952B3.svg?&style=for-the-badge&logo=bootstrap&logoColor=white) ![Tailwind CSS](https://img.shields.io/badge/tailwindcss-06B6D4.svg?&style=for-the-badge&logo=tailwindcss&logoColor=white)
-
-**🛠️ Infra and Tools**
-![Discord](https://img.shields.io/badge/discord-5865F2.svg?&style=for-the-badge&logo=discord&logoColor=white) ![GitHub](https://img.shields.io/badge/github-181717.svg?&style=for-the-badge&logo=github&logoColor=white) ![Zoom](https://img.shields.io/badge/zoom-0B5CFF.svg?&style=for-the-badge&logo=zoom&logoColor=white) ![Figma](https://img.shields.io/badge/figma-F24E1E.svg?&style=for-the-badge&logo=figma&logoColor=white) ![Sourcetree](https://img.shields.io/badge/sourcetree-0052CC.svg?&style=for-the-badge&logo=sourcetree&logoColor=white)
-
-[![Hits](https://hits.sh/github.com/Anyarzy.svg?color=40ccc9&labelColor=f58686)](https://hits.sh/github.com/Anyarzy/)
+<div align= "center">
+    <img src="https://capsule-render.vercel.app/api?type=transparent&color=auto&height=180&text=HELLO,%20I'm%20Seyun!&animation=fadeIn&fontColor=000000&fontSize=90" />
+    </div>
+    <div style="text-align: left;"> 
+    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🌟 프론트엔드 개발자(가 꿈) </h2>  
+    <div style="font-weight: 700; font-size: 15px; text-align: left; color: #282d33;"> 한국에서 프론트엔드 공부를 하고 있는 김세윤입니다🤓 </div> 
+    </div>
+    <div style="text-align: left;">
+    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🛠️ Tech Stacks </h2> <br> 
+    <div style="margin: ; text-align: left;" "text-align: left;"> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=CSS3&logoColor=white">
+          <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=Discord&logoColor=white">
+          <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=Figma&logoColor=white">
+          <img src="https://img.shields.io/badge/Github-181717?style=for-the-badge&logo=Github&logoColor=white">
+          <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white">
+          <br/><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=white">
+          <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=Bootstrap&logoColor=white">
+          <img src="https://img.shields.io/badge/Tailwind CSS-06B6D4?style=for-the-badge&logo=Tailwind CSS&logoColor=white">
+          </div>
+    </div>
+    <div style="text-align: left;">
+    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🧑‍💻 Contact me </h2> <br> 
+    <div style="text-align: left;"> <a href=mailto:rtd0203@gmail.com> <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white&link=mailto:rtd0203@gmail.com"> </a>
+          </div>  <br> 
+    <div style="text-align: left;">  </div> 
+    </div>
+    <div style="text-align: left;"> 
+    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🏅 Stats </h2> <div style="text-align: left;"> <img src="https://github-readme-stats.vercel.app/api?username=seyunkims&bg_color=180,00000000,00000000&title_color=000000&text_color=000000"
+         /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=seyunkims&layout=compact&bg_color=180,00000000,00000000&title_color=000000&text_color=000000"
+           /> </div> 
+    </div>
